@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm [Tech-star2144]
 
-<!--
-**Tech-star2144/Tech-star2144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning AI at Wecanacademy.
+- I'm interested in AI.
+- I'm looking to collaborate on beginner-friendly open source projects.
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- Python,HTML/CSS,Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- wecanproject(link) — short description
+
+## How to Reach Me
+- Email:pmacharia2144@gmail.com
+- LinkedIn: https://www.linkedin.com/in/patrick-macharia-82837a3b1/
