@@ -1,4 +1,4 @@
-# Hi, I'm [Tech-star2144]
+# Hi, I'm Tech-star2144
 
 ## About Me
 - I'm currently learning AI at Wecanacademy.
