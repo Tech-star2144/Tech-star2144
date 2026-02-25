@@ -1,4 +1,4 @@
-# Hi, I'm Tech-star2144
+# Hi, I'm Patrick Macharia
 
 ## About Me
 - I'm currently learning AI at Wecanacademy.
@@ -10,7 +10,7 @@
 - Python,HTML/CSS,Machine Learning
 
 ## Current Projects
-- wecanproject(link) — short description
+- wecanproject(link)
 
 ## How to Reach Me
 - Email:pmacharia2144@gmail.com
